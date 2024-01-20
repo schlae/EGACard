@@ -16,8 +16,8 @@ The video BIOS extension ROM can be found [here](https://minuszerodegrees.net/ro
 
 There are two other small PROM chips (82S137 devices). The binaries are linked below for reference.
 
-* U48 ([1504181.bin](https://github.com/schlae/EGACard/blob/main/proms/1504181.bin)) - Decodes the RAM framebuffer and ROM address regions
-* U34 ([1502045.bin](https://github.com/schlae/EGACard/blob/main/proms/1502045.bin)) - Decodes the I/O address space
+* U48 ([1504181.bin](https://github.com/schlae/EGACard/blob/main/proms/1504181.BIN)) - Decodes the RAM framebuffer and ROM address regions
+* U34 ([1502045.bin](https://github.com/schlae/EGACard/blob/main/proms/1502045.BIN)) - Decodes the I/O address space
 
 ## License
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
